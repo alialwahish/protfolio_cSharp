@@ -1,0 +1,11 @@
+/home/ali/codingDojo/c#/firstASP/bin/Debug/netcoreapp2.0/firstASP.deps.json
+/home/ali/codingDojo/c#/firstASP/bin/Debug/netcoreapp2.0/firstASP.runtimeconfig.json
+/home/ali/codingDojo/c#/firstASP/bin/Debug/netcoreapp2.0/firstASP.runtimeconfig.dev.json
+/home/ali/codingDojo/c#/firstASP/bin/Debug/netcoreapp2.0/firstASP.dll
+/home/ali/codingDojo/c#/firstASP/bin/Debug/netcoreapp2.0/firstASP.pdb
+/home/ali/codingDojo/c#/firstASP/obj/Debug/netcoreapp2.0/firstASP.csprojResolveAssemblyReference.cache
+/home/ali/codingDojo/c#/firstASP/obj/Debug/netcoreapp2.0/firstASP.csproj.CoreCompileInputs.cache
+/home/ali/codingDojo/c#/firstASP/obj/Debug/netcoreapp2.0/firstASP.AssemblyInfoInputs.cache
+/home/ali/codingDojo/c#/firstASP/obj/Debug/netcoreapp2.0/firstASP.AssemblyInfo.cs
+/home/ali/codingDojo/c#/firstASP/obj/Debug/netcoreapp2.0/firstASP.dll
+/home/ali/codingDojo/c#/firstASP/obj/Debug/netcoreapp2.0/firstASP.pdb
